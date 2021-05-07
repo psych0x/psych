@@ -53,7 +53,7 @@ $channel_id = "-100xxxxxxxxxx";
         send_message($chat_id,$message_id, $date);
     }
    if($message == "/help"){
-        $help = "Contact @reboot13_dev";
+        $help = "Contact @love26aa90b0";
         send_message($chat_id,$message_id, $help);
     }
    if($message == "/time"){
